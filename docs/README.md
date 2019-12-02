@@ -1,5 +1,5 @@
 # 技术框架
-## [· Elasticsearch](study-notes/docs/framework/elasticsearch/)
+## [· Elasticsearch](study-notes/docs/framework/elasticsearch/README.md)
 ## · Hadoop
 ## · Spark
 # 数仓设计
